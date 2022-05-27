@@ -28,16 +28,10 @@
 },
 {
 "/": "/my-account/my-orders/*",
-"?": {
-"pastorders": "true"
-},
 "comment": "Matches past orders"
 },
 {
 "/": "product-category/*",
-"?": {
-"pastorders": "true"
-},
 "comment": "Matches product category"
 }
 ]
