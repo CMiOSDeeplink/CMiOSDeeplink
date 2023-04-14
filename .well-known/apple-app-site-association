@@ -59,6 +59,10 @@
                         "comment": "Recipe Details page"
                     },
                     {
+                        "/": "/offers/shop-weekly-savor",
+                        "comment": "Weely Savor"
+                    },
+                    {
                         "/": "/my-account/my-orders/*/view-items",
                         "comment": "Accept Reject Subs items"
                     }
