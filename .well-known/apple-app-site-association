@@ -77,6 +77,7 @@
                     "/recipes/saved-recipes",
                     "/recipes/planned-meals",
                     "/recipes/*",
+                    "/offers/shop-weekly-savor",
                     "/my-account/my-orders/*/view-items"
                 ]
             }
