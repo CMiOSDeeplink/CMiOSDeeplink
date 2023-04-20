@@ -59,8 +59,8 @@
                         "comment": "Recipe Details page"
                     },
                     {
-                        "/": "/offers/shop-weekly-savor",
-                        "comment": "Weely Savor"
+                        "/": "/offers/*",
+                        "comment": "Offer Detail Page"
                     },
                     {
                         "/": "/my-account/my-orders/*/view-items",
@@ -81,7 +81,7 @@
                     "/recipes/saved-recipes",
                     "/recipes/planned-meals",
                     "/recipes/*",
-                    "/offers/shop-weekly-savor",
+                    "/offers/*",
                     "/my-account/my-orders/*/view-items"
                 ]
             }
