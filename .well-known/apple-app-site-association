@@ -65,6 +65,10 @@
                     {
                         "/": "/my-account/my-orders/*/view-items",
                         "comment": "Accept Reject Subs items"
+                    },
+                    {
+                        "/": "/instore-coupon/*",
+                        "comment": "Instore Offer Detail Page"
                     }
                 ]
             },
