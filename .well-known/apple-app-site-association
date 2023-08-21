@@ -86,7 +86,8 @@
                     "/recipes/planned-meals",
                     "/recipes/*",
                     "/offers/*",
-                    "/my-account/my-orders/*/view-items"
+                    "/my-account/my-orders/*/view-items",
+                    "/instore-coupon/*"
                 ]
             }
         ]
