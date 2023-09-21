@@ -4,6 +4,9 @@
             "55V67PTHK5.com.centralmarket.ecom.qa"
         ]
     },
+    "appclips": {
+        "apps": ["55V67PTHK5.com.centralmarket.ecom.qa.Clip"]
+    },
     "applinks": {
         "apps": [],
         "details": [
