@@ -74,7 +74,7 @@
                         "comment": "Instore Offer Detail Page"
                     },
                     {
-                        "/": "mobile-app-page-slug",
+                        "/": "/*",
                         "comment": "Dynamic mobile app page slug"
                     }
                 ]
@@ -95,7 +95,7 @@
                     "/offers/*",
                     "/my-account/my-orders/*/view-items",
                     "/instore-coupon/*",
-                    "/mobile-app-page-slug"
+                    "/*"
                 ]
             }
         ]
