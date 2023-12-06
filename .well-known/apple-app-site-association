@@ -74,8 +74,8 @@
                         "comment": "Instore Offer Detail Page"
                     },
                     {
-                        "/": "/instore-offers/*",
-                        "comment": "Instore Offers"
+                        "/": "/instore-coupons/*",
+                        "comment": "Instore coupons"
                     },
                     {
                         "/": "/*",
@@ -99,7 +99,7 @@
                     "/offers/*",
                     "/my-account/my-orders/*/view-items",
                     "/instore-coupon/*",
-                    "/instore-offers/*",
+                    "/instore-coupons/*",
                     "/*"
                 ]
             }
