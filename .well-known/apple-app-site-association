@@ -76,10 +76,6 @@
                     {
                         "/": "/instore-coupons/*",
                         "comment": "Instore coupons"
-                    },
-                    {
-                        "/": "/",
-                        "comment": "Dynamic mobile app page slug"
                     }
                 ]
             },
@@ -100,7 +96,6 @@
                     "/my-account/my-orders/*/view-items",
                     "/instore-coupon/*",
                     "/instore-coupons/*",
-                    "/"
                 ]
             }
         ]
