@@ -70,12 +70,8 @@
                         "comment": "Accept Reject Subs items"
                     },
                     {
-                        "/": "/instore-coupon/*",
+                        "/": "/digital-offers/*",
                         "comment": "Instore Offer Detail Page"
-                    },
-                    {
-                        "/": "/instore-coupons/*",
-                        "comment": "Instore coupons"
                     }
                 ]
             },
